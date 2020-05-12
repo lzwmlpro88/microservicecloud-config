@@ -16,5 +16,9 @@ spring:
  profiles: test #测试环境
  application: 
   name: microservicecloud-config-atguigu-test
+
+make: 
+ love: xjj
+
 # 请保存成UTF-8格式 
  
